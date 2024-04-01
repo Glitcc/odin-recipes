@@ -1,2 +1,5 @@
 # odin-recipes
- First TOP project
+
+First TOP project
+
+Learning HTML fundamentals
